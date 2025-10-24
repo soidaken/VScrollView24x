@@ -1,0 +1,43 @@
+{
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "excluded-modules": [
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
+  ],
+  "group-list": [
+    "default"
+  ],
+  "design-resolution-width": 720,
+  "design-resolution-height": 1280,
+  "fit-width": true,
+  "fit-height": false,
+  "use-project-simulator-setting": true,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "width": 720,
+    "height": 1280
+  },
+  "last-module-event-record-time": 0,
+  "assets-sort-type": "name",
+  "facebook": {
+    "enable": false,
+    "appID": "",
+    "live": {
+      "enable": false
+    },
+    "audience": {
+      "enable": false
+    }
+  },
+  "preview-port": 7456,
+  "clear-simulator-cache": true,
+  "start-scene": "current"
+}
